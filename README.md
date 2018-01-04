@@ -10,6 +10,7 @@
 <p>
   <b>How it works?</b>
 </p>
+
 ### How can I identify my Parking Genie Spot?
 All parking spots inside the Parking Genie Community are conveniently marked by the logo of Parking Genie in them. Also, you can find your specific spot by an ID/serial number found at each parking spot. So, there’s no mistakes, no lagging, no time lost.
 
