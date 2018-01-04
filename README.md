@@ -18,7 +18,8 @@ All parking spots inside the Parking Genie Community are conveniently marked by 
    <b>Is this just a Parking App?</b>
 </p>
 NO. This is a multi-task App specially designed to help you:  <b>S A F E + T I M E</b>
-###
+<p>
+</p>
 <p>
 <b>S A F E</b>: It helps you travel safely. We’ll help you to improve your driving (speed limits, crowded areas, law enforcement controlled) by our signature database and shared feed of people just like you. You’ll arrive to your prime spot reserved by us to your desired destination adding safety to your arrival, or to know if its safe to arrive at all. 
 
